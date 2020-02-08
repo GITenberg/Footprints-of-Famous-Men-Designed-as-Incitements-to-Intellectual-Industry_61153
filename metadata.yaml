@@ -1,0 +1,35 @@
+_repo: Footprints-of-Famous-Men-Designed-as-Incitements-to-Intellectual-Industry_61153
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Edgar, John G. (John George)
+    aliases:
+    - Edgar, John George
+    - Edgar, J. G. (John George)
+    - Edgar, J.G.
+    birthdate: 1834
+    deathdate: 1864
+    gutenberg_agent_id: '32162'
+    url: http://www.gutenberg.org/2009/agents/32162
+    wikipedia: https://en.wikipedia.org/wiki/John_George_Edgar
+description: ''
+gutenberg_issued: '2020-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Biography'
+- !lcsh 'Biography -- Juvenile literature'
+- GITenberg
+tableOfContents: 'I. Men of action: [George] Washington. [Edmund] Burke. [Jacques]
+  Necker. [William] Pitt. Lord Erskine. Lord Collingwood. Lord Teignmouth -- II. Men
+  of letters: Dean Milner. David Hume. Robert Southey. Thomas Moore -- III. Artists:
+  Sir Joshua Reynolds. Sir Francis Chantrey. Sir Christopher Wren -- IV. Men of science:
+  Dr. William Hunter. [Joseph] Black. [James] Brindley. [James] Watt. Adam Smith.'
+title: 'Footprints of Famous Men: Designed as Incitements to Intellectual Industry'
+url: http://www.gutenberg.org/ebooks/61153
